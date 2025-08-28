@@ -27,4 +27,10 @@ Partly cloudy +18°C
 Enter city name: New York
 Sunny +25°C
 
+Notes
+1. This script relies on wttr.in, so an active internet connection is required.
+2. The output format is %C (condition) and %t (temperature). You can customize this by editing the format parameter in the URL.
 
+# License
+
+This project is licensed under the MIT License.
