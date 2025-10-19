@@ -6,7 +6,7 @@ A simple Python command-line tool to fetch real-time weather updates for any cit
 
 1. Get instant weather conditions by entering a city name
 2. Lightweight and easy to use
-3. Uses the free wttr.in API (no API key required)
+3. Uses   the free wttr.in API (no API key required)
 
 Installation
 1. Clone this repository:
