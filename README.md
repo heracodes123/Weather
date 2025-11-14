@@ -9,4 +9,3 @@ A simple Python script that fetches real-time weather information for any city u
 * Minimal and easy-to-understand code.
 
 
-Under MIT License.
